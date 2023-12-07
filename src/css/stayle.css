@@ -1,0 +1,21 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+#projects {
+  background-color: #e2edff;
+}
+#contact {
+  padding-top: 2rem;
+  background-color: #4a5b62;
+}
+#sertifikat {
+  background-color: #e2edff;
+}
+section {
+  padding-top: 5rem;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
